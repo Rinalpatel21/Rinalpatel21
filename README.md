@@ -32,17 +32,11 @@ Here are some ideas to get you started:
 ### 🚀 What I Bring
 
 - 📊 Ability to turn raw, messy data into clear, actionable insights that drive decisions
-
 - 🧠 Strong foundation in statistics, machine learning, and problem-solving
-
 - 🔍 Experience working across the full data lifecycle — from data cleaning to modeling to storytelling
-
 - 💼 Business-focused mindset: I don’t just build models, I solve real-world problems
-
 - ⚡ Proficient in Python, SQL, and BI tools to deliver efficient and scalable solutions
-
 - 🤝 Clear communicator who can translate complex data into simple insights for stakeholders
-
 - 📈 Passion for continuous learning and staying updated with the latest in AI & data science
 
 ### 🔗 Connect With Me
