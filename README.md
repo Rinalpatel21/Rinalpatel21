@@ -1,7 +1,7 @@
 <img width="1280" height="640" alt="franganillo-ai-generated-7975712" src="https://github.com/user-attachments/assets/2cd480f4-759d-4ad6-a47a-779ae38fa8fd" />
 
 
-## Hi there 👋
+## Hi, I'm Rinal Patel. Welcome to my GitHub!
 
 <!--
 **Rinalpatel21/Rinalpatel21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
