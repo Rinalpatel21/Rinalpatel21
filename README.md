@@ -44,3 +44,7 @@ Here are some ideas to get you started:
 - 🤝 Clear communicator who can translate complex data into simple insights for stakeholders
 
 - 📈 Passion for continuous learning and staying updated with the latest in AI & data science
+
+### 🔗 Connect With Me
+
+<p align="left"> <a href="[https://www.linkedin.com/in/your-linkedin-username/](https://www.linkedin.com/in/rinalpatel-datascientist/)" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-Rinal%20Patel-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> </p>
