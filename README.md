@@ -17,3 +17,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### My Data Journey:
+- 👨‍🏫 Started my journey in mathematics and teaching — building a strong foundation in logic, problem-solving, and communication
+- 🔄 Transitioned into data science to combine analytical thinking with real-world business impact
+- 📊 Experienced in turning messy data into meaningful insights through Python, SQL, and visualization
+- 🤖 Built machine learning solutions across domains like customer behavior, pricing, and business analytics
+- 🚀 Passionate about transforming data into decisions — from exploration to modeling to storytelling
