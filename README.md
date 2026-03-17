@@ -1,3 +1,6 @@
+<img width="1280" height="640" alt="franganillo-ai-generated-7975712" src="https://github.com/user-attachments/assets/2cd480f4-759d-4ad6-a47a-779ae38fa8fd" />
+
+
 ## Hi there 👋
 
 <!--
