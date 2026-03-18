@@ -1,4 +1,4 @@
-<img width="1280" height="640" alt="franganillo-ai-generated-7975712" src="https://github.com/user-attachments/assets/2cd480f4-759d-4ad6-a47a-779ae38fa8fd" />
+<img width="800" height="450" alt="franganillo-ai-generated-7975712" src="https://github.com/user-attachments/assets/2cd480f4-759d-4ad6-a47a-779ae38fa8fd" />
 
 
 ## Hi, I'm Rinal Patel. Welcome to my GitHub!
